@@ -1,4 +1,9 @@
-## Hi, Im Rox! 👋
+<div align="center">
+<h1 align="center"> Hello World! I'm Rox</h1> 
+</div>
+
+<img src="https://i.pinimg.com/564x/59/bd/0e/59bd0eccb784e79a2731444b2679e999.jpg"/>
+
 
 <!--
 **rox-dotcom/rox-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
