@@ -2,7 +2,7 @@
 <h1 align="center"> Hello World! I'm Rox</h1> 
 </div>
 
-<img src="https://i.pinimg.com/564x/59/bd/0e/59bd0eccb784e79a2731444b2679e999.jpg"/>
+<img src="https://images.alphacoders.com/113/thumb-1920-1138740.png"/>
 
 
 <!--
