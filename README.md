@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <img src="https://images4.alphacoders.com/135/thumb-1920-1358517.png" height="400" width="900"/> 
+ <img src="https://images4.alphacoders.com/135/thumb-1920-1358517.png" height="400" width="800"/> 
 </div>
 
 
