@@ -7,7 +7,7 @@
 </div>
 
 
-[![Python](https://img.shields.io/badge/<Python>-<Enthusiast>-<COLOR>.svg)](https://shields.io/)
+[![Python](https://img.shields.io/badge/Python-Enthusiast-blue.svg)](https://shields.io/)
 
 
 <!--
