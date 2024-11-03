@@ -3,9 +3,11 @@
 </div>
 
 <div align="center">
- <img src="https://media.licdn.com/dms/image/v2/D4E16AQG0_Cenk-0-hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706036481066?e=1736380800&v=beta&t=Hy2tvqIXuaEPps36KQDA2eKlHtqHraDYOlRcA-VM-AM" height="400" width="800"/> 
+ <img src="" height="400" width="800"/> 
 </div>
 
+
+[![Python](https://img.shields.io/badge/<Python>-<Enthusiast>-<COLOR>.svg)](https://shields.io/)
 
 
 <!--
