@@ -1,14 +1,13 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/9be134d8-15ce-4044-9627-92ff6f38d1d2)<div align="center">
 <h1 align="center"> Hello World! I'm Rox</h1> 
 </div>
 
 <div align="center">
- <img src="https://images.unsplash.com/photo-1501862700950-18382cd41497?q=80&w=2019&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="500" width="800"/> 
+ <img src="https://images.unsplash.com/photo-1446776709462-d6b525c57bd3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="400" width="800"/> 
 </div>
 
 
-[![Python](https://img.shields.io/badge/Python-Enthusiast-blue.svg)](https://shields.io/)
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+[![Python](https://img.shields.io/badge/Code-Python-blue.svg)](https://shields.io/)
 
 
 <!--
