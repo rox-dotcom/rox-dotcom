@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://img.freepik.com/free-photo/view-rock-formations-with-nature-landscape_23-2151723147.jpg?t=st=1730613226~exp=1730616826~hmac=97ac96e0602b9ea7bba36c69aecb500194c9bdc31c7427dcb6e0cb88e9cfefc6&w=1380" height="300px" width="1000px"/> 
+ <img src="https://img.freepik.com/free-photo/view-rock-formations-with-nature-landscape_23-2151723147.jpg?t=st=1730613226~exp=1730616826~hmac=97ac96e0602b9ea7bba36c69aecb500194c9bdc31c7427dcb6e0cb88e9cfefc6&w=1380" height="250px" width="1000px"/> 
 </div>
 <div>
  <h1 align="center"> Hello World! I'm Rox</h1> 
