@@ -1,24 +1,28 @@
-<div align="center">
- <img src="https://img.freepik.com/free-photo/view-rock-formations-with-nature-landscape_23-2151723147.jpg?t=st=1730613226~exp=1730616826~hmac=97ac96e0602b9ea7bba36c69aecb500194c9bdc31c7427dcb6e0cb88e9cfefc6&w=1380" height="250px" width="1000px"/> 
-</div>
+
 <div>
- <h1 align="center"> Hello World! I'm Rox</h1> 
+ <p align="center">
+  <a href="https://github.com/rox-dotcom"><img src="https://readme-typing-svg.herokuapp.com?color=%7B2CBF&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+rox-dotcom;I+am+a+student+in+Computer+Science;Web+Dev;Cybersecurity+enthusiast;"></a>
+ </p>
+</div
+ 
+<div align="center">
+ <img src="" 
+  height="150px" width="1000px"/> 
 </div>
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<hr>
+
+<pre>
+💻 
+📚 I am a student at the univerity of 'Tec de Monterrey'
+🔭 Working on my Backend skills
+🌟 Main languages: Python, JavaScript
+🚩 I have a strong interest in Web Development and Cybersecurity.
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="_" target="_blank">MY RESUME.</a>
+</pre>
+<hr>
 
 [![Python](https://img.shields.io/badge/Code-Python-blue.svg)](https://shields.io/)
-
-
-<!--
-**rox-dotcom/rox-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
