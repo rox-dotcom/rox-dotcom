@@ -1,7 +1,7 @@
 
 <div>
  <p align="center">
-  <a href="https://github.com/rox-dotcom"><img src="https://readme-typing-svg.herokuapp.com?color=%7B2CBF&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+rox-dotcom;I+am+a+student+in+Computer+Science;Web+Dev;Cybersecurity+enthusiast;"></a>
+  <a href="https://github.com/rox-dotcom"><img src="https://readme-typing-svg.herokuapp.com?color=%7B2CBF&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+rox-dotcom;I+am+a+student+in+Computer+Science;Web+Dev;Cybersecurity+enthusiast;Always+learning+something+new;"></a>
  </p>
 </div
  
